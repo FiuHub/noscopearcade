@@ -321,9 +321,7 @@ end)
             v:Destroy()
         end
     end
---[[
-	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
-]]
+
 local Noclip = nil
 local Clip = nil
 
