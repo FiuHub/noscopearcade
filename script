@@ -1,3 +1,5 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FiuHub/Aimbot-V2/main/Resources/Scripts/Main.lua"))()
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FiuHub/chams/main/script"))()
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FiuHub/noclip/main/script"))()
