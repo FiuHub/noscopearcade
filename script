@@ -3,3 +3,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/FiuHub/Aimbot-V2/main
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FiuHub/chams/main/script"))()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FiuHub/noclip/main/script"))()
+
+game.Players.LocalPlayer.Character.Humanoid.JumpPower = 100
